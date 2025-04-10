@@ -39,12 +39,12 @@ The core of the project is implemented in the Jupyter Notebook:
 - **Geospatial Visualization:**
   - Mapping clustered MSAs on U.S. maps for interpretability
 
-## 📊 Outputs
+## Outputs
 
 - Clustered city groups visualized on a U.S. map
 - Insights into spatial distribution, economic interdependence, and urban structure
 
-## 🧠 Future Work
+## Future Work
 
 - Integrate temporal mobility data to make clustering dynamic
 - Identify population distribution patterns and utilize GMM models for classification
